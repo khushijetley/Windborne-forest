@@ -1,13 +1,13 @@
 # Windborne Forest
 ### Probabilistic Forest Fire Cellular Automaton · Real-Time GLSL Shader
 
-![Stable forest state](screenshots/preview.png)
+![Stable forest state](screenshots:preview.png)
 *Stable forest regime — high density, rare ignition*
 
-![Fire propagation](screenshots/burning.png)
+![Fire propagation](screenshots:burning.png)
 *Active fire front — directional spread under wind bias*
 
-![Post-fire recovery](screenshots/sparse.png)
+![Post-fire recovery](screenshots:sparse.png)
 *Sparse recovery regime — regrowth competing with ignition*
 
 [**View Live on Shadertoy →**](https://www.shadertoy.com/view/tXGyzK)
